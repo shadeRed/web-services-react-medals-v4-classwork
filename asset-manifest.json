@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/web-services-react-medals-v4-classwork/static/css/main.848d2281.chunk.css",
+    "main.js": "/web-services-react-medals-v4-classwork/static/js/main.269d5031.chunk.js",
+    "main.js.map": "/web-services-react-medals-v4-classwork/static/js/main.269d5031.chunk.js.map",
+    "runtime-main.js": "/web-services-react-medals-v4-classwork/static/js/runtime-main.4bba9933.js",
+    "runtime-main.js.map": "/web-services-react-medals-v4-classwork/static/js/runtime-main.4bba9933.js.map",
+    "static/js/2.b6d0ce19.chunk.js": "/web-services-react-medals-v4-classwork/static/js/2.b6d0ce19.chunk.js",
+    "static/js/2.b6d0ce19.chunk.js.map": "/web-services-react-medals-v4-classwork/static/js/2.b6d0ce19.chunk.js.map",
+    "static/js/3.c4a5f10c.chunk.js": "/web-services-react-medals-v4-classwork/static/js/3.c4a5f10c.chunk.js",
+    "static/js/3.c4a5f10c.chunk.js.map": "/web-services-react-medals-v4-classwork/static/js/3.c4a5f10c.chunk.js.map",
+    "index.html": "/web-services-react-medals-v4-classwork/index.html",
+    "static/css/main.848d2281.chunk.css.map": "/web-services-react-medals-v4-classwork/static/css/main.848d2281.chunk.css.map",
+    "static/js/2.b6d0ce19.chunk.js.LICENSE.txt": "/web-services-react-medals-v4-classwork/static/js/2.b6d0ce19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bba9933.js",
+    "static/js/2.b6d0ce19.chunk.js",
+    "static/css/main.848d2281.chunk.css",
+    "static/js/main.269d5031.chunk.js"
+  ]
+}
