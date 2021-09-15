@@ -1,0 +1,8 @@
+.remove-container .remove-btn {
+    background-color: #f44;
+    color: #fff;
+    border: none;
+    padding: 3px;
+    border-radius: 5px;
+    cursor: pointer;
+}
